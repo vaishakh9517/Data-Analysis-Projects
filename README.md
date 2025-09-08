@@ -2,7 +2,8 @@
 Welcome to my data analysis portfolio! This repository showcases four hands-on projects where I explored real-world business problems using tools like Excel, Power BI, Python, and Tableau. From retail sales trends to gender pay equality audits, each project highlights my ability to derive actionable insights from data.
 
 🔍 Projects Included:
-Deloitte Forage Simulation – Investigated machine failures and salary equity issues using Tableau and Excel functions.
+
+Deloitte Forage Simulation – Investigated machine failures and salary equity issues using Tableau and Excel functions. (For the tableau dashboard, kindly open the Task 1 - Tableau - Screenshot.jpg file, as Book1.twb file might not open.)
 
 Café Sales Analysis – Analyzed customer behavior, product performance, and payment trends.
 
